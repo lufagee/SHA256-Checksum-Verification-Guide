@@ -2,7 +2,7 @@
 <a href="#gif5">TheGif5</a>
 <a id="gif5"></a>
 -->
-
+<a id="readme-top"></a>
 
 
 # 🔒 SHA256-Checksum-Verification-Guide
@@ -183,7 +183,7 @@ echo "123ABC0OFFICIAL6SIXTY4FOURCHARACTERHEXADECIMALHASH0123ABC12345 /filePath" 
 
 ---
 <br/>
-<a id="bestpractices"></a>
+<a id="bestPractices"></a>
 
 ## 🛡️ Security Best Practices
 
@@ -204,3 +204,6 @@ echo "123ABC0OFFICIAL6SIXTY4FOURCHARACTERHEXADECIMALHASH0123ABC12345 /filePath" 
 *Designed for IT professionals • Enterprise-ready security practices*
 
 </div>
+
+<p align="right">(<a href="#readme-top"><strong>back to top »</strong></a>)</p>
+
