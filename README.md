@@ -183,7 +183,7 @@ echo "123ABC0OFFICIAL6SIXTY4FOURCHARACTERHEXADECIMALHASH0123ABC12345 /filePath" 
 
 ---
 <br/>
-<a id="bestPractices"></a>
+<a id="bestPractice"></a>
 
 ## 🛡️ Security Best Practices
 
