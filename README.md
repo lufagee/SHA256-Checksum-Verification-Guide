@@ -163,10 +163,11 @@ openssl sha256 ~/fileLocation/fileName.fileType
 <pre>
 1. Run the commands above in their respective <b>CLI</b>(command-line interface)
 
-2.  Obtain the <b>Official Checksum
-
+2.  Obtain the <b>Official Checksum</b>
 3. Compare the generated hash with the official checksum 
     <b>✅ Match</b> = File is authentic | <b>❌ Mismatch</b> = Security risk </pre>
+
+<br/>
 
 **⚡ One-Liner Verification (Advanced) ⚡»**
 > Compare the **official hash** directly with the hash generated from the **downloaded file**. 
